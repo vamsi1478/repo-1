@@ -13,8 +13,4 @@ commit some files in local
 Now link github repo to local system : git remote add origin github-repo-url 
 Now push the source code to github : git push -u origin branc
 hi this is  vamsi devops enginer  here
-How to generate a token : setting >>>>> developer settings >>> personal acces
-
-
-hi this my pc 
-and my nameis 1234
+How to generate a token : setting >>>>> developer settings >>> person
